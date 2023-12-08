@@ -22,18 +22,18 @@ import java.sql.SQLException;
 public class Main {
     public static void main(String[] args) {
 
-         try {
-            new SendEmail().sendMail("A new message", """
-                        Dear reader,
-                                        
-                        Hello world.
-                                        
-                        Best regards,
-                        myself
-                        """);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+//         try {
+//            new SendEmail().sendMail("A new message", """
+//                        Dear reader,
+//
+//                        Hello world.
+//
+//                        Best regards,
+//                        myself
+//                        """);
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
         // Set up mail server properties
         Properties properties = new Properties();
         properties.put("mail.smtp.host", "smtp.gmail.com");

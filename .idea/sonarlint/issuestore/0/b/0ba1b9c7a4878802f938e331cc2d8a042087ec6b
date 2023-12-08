@@ -8,7 +8,7 @@ java:S18545";Remove this useless assignment to local variable "subject".(É¹8
 java:S18544";Remove this useless assignment to local variable "toEmail".(úêÓ±şÿÿÿÿ8÷»şÃ1
 W
 java:S1854-";Remove this useless assignment to local variable "session".(µîÈ8÷»şÃ1
-]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8áª—ÿÃ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8—©ÊÄ1
 W
 java:S1161.":Add the "@Override" annotation above this method signature(‡èú×8¥÷»şÃ1
 H
@@ -28,7 +28,7 @@ java:S3252M"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_
 H
 java:S1128",Remove this unused import 'demandes.Demand'.(ñÜ›n8ª÷»şÃ1
 T
-java:S1128"8Remove this unused import 'services.emailing.SendEmail'.(Ã—øt8îª—ÿÃ1
+java:S1128"8Remove this unused import 'services.emailing.SendEmail'.(Ã—øt8£©ÊÄ1
 I
 java:S1128"'Remove this unused import 'javax.mail'.(ğ†ÌŞùÿÿÿÿ8ª÷»şÃ1
 b

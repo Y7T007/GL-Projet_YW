@@ -8,9 +8,9 @@ java:S1192‹"LDefine a constant instead of duplicating this literal "Demand ID:
 Z
 java:S2589"7Remove this expression which always evaluates to "true"(Ãû‡™ÿÿÿÿÿ8´âÒşÃ1
 Z
-java:S2589Ç"7Remove this expression which always evaluates to "true"(§Šô¼ûÿÿÿÿ8´âÒşÃ1
-Z
 java:S2589ˆ"7Remove this expression which always evaluates to "true"(–ÖêÜùÿÿÿÿ8´âÒşÃ1
+Z
+java:S2589Ç"7Remove this expression which always evaluates to "true"(§Šô¼ûÿÿÿÿ8´âÒşÃ1
 ]	java:S125c"<This block of commented-out lines of code should be removed.(ÔÅƒøÿÿÿÿ8Ò¦‚ûÃ1
 G	java:S106i"+Replace this use of System.out by a logger.(ı©É8Ò¦‚ûÃ1
 g

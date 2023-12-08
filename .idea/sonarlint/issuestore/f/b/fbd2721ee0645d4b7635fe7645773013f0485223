@@ -1,0 +1,19 @@
+
+F
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®8²Èô‚Ä1
+E
+java:S1604w"(Make this anonymous inner class a lambda(Î½«Ç8²Èô‚Ä1
+F
+java:S1604¤"(Make this anonymous inner class a lambda(ÉãÃ®8²Èô‚Ä1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( ‘Ø¾ıÿÿÿÿ8³Èô‚Ä1
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÌ48´Èô‚Ä1
+E
+java:S2189§""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÉÈô‚Ä1
+„
+java:S40877"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(Ç±¢Şÿÿÿÿÿ8ÌÈô‚Ä1
+W
+java:S1161H":Add the "@Override" annotation above this method signature(‡èú×8ÚÈô‚Ä1
+f
+java:S3252n"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8ŞÈô‚Ä1
+|
+java:S2142±"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8åÈô‚Ä1

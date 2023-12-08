@@ -18,3 +18,5 @@ R
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 `
 0src/main/java/services/emailing/EmailSender.java,4\c\4c79324ab1d806f710224646130a5570e925b7d7
+Y
+)src/main/java/services/pdfGen/pdfGen.java,f\b\fbd2721ee0645d4b7635fe7645773013f0485223
